@@ -33,7 +33,7 @@ To clone and run this application, place from your command line:
 $ git clone https://github.com/isabelamoraes/nlw-esports.git
 
 # Go into the repository desired
-$ cd backend
+$ cd server
 # OR
 $ cd web
 # OR
